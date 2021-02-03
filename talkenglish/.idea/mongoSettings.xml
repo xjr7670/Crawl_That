@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="admin" />
+          <option name="authenticationMechanism" value="SCRAM-SHA-1" />
+          <option name="label" value="139.199.188.215" />
+          <option name="password" value="Xjr.45668668" />
+          <option name="serverUrls">
+            <list>
+              <option value="139.199.188.215:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="userDatabase" value="test" />
+          <option name="username" value="root" />
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="admin" />
+          <option name="authenticationMechanism" value="SCRAM-SHA-1" />
+          <option name="label" value="localhost" />
+          <option name="password" value="Xjr.45668668" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="userDatabase" value="test" />
+          <option name="username" value="root" />
+        </ServerConfiguration>
+      </list>
+    </option>
+    <option name="shellPath" value="D:\ProgramFiles\mongodb-shell\bin\mongo.exe" />
+  </component>
+</project>
